@@ -1,0 +1,25 @@
+.colors{
+    margin-top: 15px;
+    margin-right: 70px;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.colors li{
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 70px;
+}
+
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
